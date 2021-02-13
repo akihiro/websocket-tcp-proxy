@@ -1,2 +1,2 @@
-# websocket-tcp-proxy
-ASGI based novnc/websockify clone
+# websocketee
+ASGI based [novnc/websockify](https://github.com/novnc/websockify) clone
